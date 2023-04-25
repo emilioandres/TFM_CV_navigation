@@ -1,6 +1,9 @@
 # TFM_CV_navigation
 En este repositorio se presenta una CNN para la segmentación de imágenes en un robot autónomo.
 
+Para citar:
+"Sistema de visión artificial con sensor Kinect para robot autónomo", Emilio Flores Araya, Universidad Internacional de Valencia.
+
 Las métricas de entrenamiento son:
 
 ![imagen](https://user-images.githubusercontent.com/20390219/234169447-9c0f9dd2-7d72-48a3-9775-51ad81c3be70.png)
